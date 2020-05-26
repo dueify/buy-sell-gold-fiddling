@@ -1,0 +1,6 @@
+C:\Users\lim0f\RiderProjects\BuySellGold\BuySellGold\bin\Debug\BuySellGold.exe
+C:\Users\lim0f\RiderProjects\BuySellGold\BuySellGold\bin\Debug\BuySellGold.pdb
+C:\Users\lim0f\RiderProjects\BuySellGold\BuySellGold\obj\Debug\BuySellGold.csprojAssemblyReference.cache
+C:\Users\lim0f\RiderProjects\BuySellGold\BuySellGold\obj\Debug\BuySellGold.csproj.CoreCompileInputs.cache
+C:\Users\lim0f\RiderProjects\BuySellGold\BuySellGold\obj\Debug\BuySellGold.exe
+C:\Users\lim0f\RiderProjects\BuySellGold\BuySellGold\obj\Debug\BuySellGold.pdb
